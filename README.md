@@ -9,7 +9,9 @@
   <img src="https://github.com/user-attachments/assets/c72e7a66-92a9-4fc7-80e4-4449c64986a6" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/a3118d2f-dae8-47fa-96af-af7d688660af" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/user-attachments/assets/bb300598-8601-4202-9f5d-6956a3afd991" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/2fb11e45-7a59-49c6-be0a-3ced91a9732a" widht="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/5d9d9abd-2035-489d-8966-c608002ef314" width="40" height="40"
 </div>
 
 ## Contact me: 
