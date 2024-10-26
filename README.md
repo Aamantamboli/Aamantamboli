@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Aaman Tamboli 👋
 
 ## :hammer_and_wrench: Tools :
 <div>
