@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Amaan Tamboli
+
+3# 👋 Hi, I'm Amaan Tamboli
 **DevOps Engineer | Cloud Enthusiast | Automation**
 
 Building bridges between development and operations through infrastructure as code, CI/CD pipelines, and cloud-native solutions. Passionate about creating scalable, secure, and resilient systems.
