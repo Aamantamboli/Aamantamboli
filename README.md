@@ -1,5 +1,5 @@
 
-3# 👋 Hi, I'm Amaan Tamboli
+# 👋 Hi, I'm Amaan Tamboli
 **DevOps Engineer | Cloud Enthusiast | Automation**
 
 Building bridges between development and operations through infrastructure as code, CI/CD pipelines, and cloud-native solutions. Passionate about creating scalable, secure, and resilient systems.
@@ -9,16 +9,12 @@ Building bridges between development and operations through infrastructure as co
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 📦 Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-%230052CC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔄 CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 🐳 Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,7 +24,7 @@ Building bridges between development and operations through infrastructure as co
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 🚀 Recent Projects
+<!-- ## 🚀 Recent Projects
 
 ### [Project 1 Name]
 ▶️ Automated cloud infrastructure provisioning using Terraform and GitHub Actions  
@@ -44,12 +40,13 @@ Building bridges between development and operations through infrastructure as co
 ▶️ CI/CD pipeline modernization for legacy system  
 ✅ Features: Reduced deployment time by 70%, zero-downtime deployments  
 🛠️ Stack: Jenkins, Docker, Nexus, SonarQube
-
+-->
 
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/Aamantamboli)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aamantamboli&show_icons=true&theme=dark)](https://github.com/Aamantamboli)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/Aamantamboli)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/Aamantamboli)
+-->
 
 ## 💬 DevOps Philosophy
 > "The goal is not to eliminate failures, but to build systems that can survive them."  
