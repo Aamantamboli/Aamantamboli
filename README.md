@@ -1,22 +1,60 @@
-## Hi there, I'm Aaman Tamboli 👋
+# 👋 Hi, I'm Amaan Tamboli
+**DevOps Engineer | Cloud Enthusiast | Automation**
 
-## :hammer_and_wrench: Tools :
-<div>
-  <img src="https://github.com/user-attachments/assets/02af4933-9d17-4d69-9a8d-adeeb449c362" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/76b7fbc7-c78d-4e1c-a9f7-feb6d96341ff" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/818ffcdb-9cc4-444f-98e3-1bcf22fa118c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/c72e7a66-92a9-4fc7-80e4-4449c64986a6" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/a3118d2f-dae8-47fa-96af-af7d688660af" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/user-attachments/assets/bb300598-8601-4202-9f5d-6956a3afd991" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/4d19828d-9358-4efd-ade3-51e0599bc209" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/2fb11e45-7a59-49c6-be0a-3ced91a9732a" widht="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/5d9d9abd-2035-489d-8966-c608002ef314" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/3f8cb9ba-4add-4116-a70b-c4f3074bf299" width="40" height="40"/>
+Building bridges between development and operations through infrastructure as code, CI/CD pipelines, and cloud-native solutions. Passionate about creating scalable, secure, and resilient systems.
 
-</div>
+## 🛠️ Technical Skills
 
-## Contact me: 
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 📦 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-%230052CC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔄 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🖥️ Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 🚀 Recent Projects
+
+### [Project 1 Name]
+▶️ Automated cloud infrastructure provisioning using Terraform and GitHub Actions  
+✅ Features: Multi-cloud deployment, automated validation, drift detection  
+🛠️ Stack: Terraform, AWS, Azure DevOps, Python
+
+### [Project 2 Name]
+▶️ Kubernetes cluster optimization and autoscaling implementation  
+✅ Features: 40% cost reduction, automated scaling policies  
+🛠️ Stack: EKS, Helm, Prometheus, Horizontal Pod Autoscaler
+
+### [Project 3 Name]
+▶️ CI/CD pipeline modernization for legacy system  
+✅ Features: Reduced deployment time by 70%, zero-downtime deployments  
+🛠️ Stack: Jenkins, Docker, Nexus, SonarQube
+
+
+## 📈 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/Aamantamboli)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/Aamantamboli)
+
+## 💬 DevOps Philosophy
+> "The goal is not to eliminate failures, but to build systems that can survive them."  
+> "If it hurts, do it more often."
+
+## 📫 Let's Connect
 <div id="badges">
   <a href="https://www.linkedin.com/in/aman-tamboli-117a7121a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,4 +63,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+
+🌟 _"Automation is not about replacing humans, it's about amplifying human potential"_
 
